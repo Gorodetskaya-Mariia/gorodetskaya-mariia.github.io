@@ -388,7 +388,7 @@ a:hover svg {
 
 @media screen and (max-width: 767px) {
   body.home {
-    background-image: url("images/bg-mobile.svg");
+    background-image: url("/img/bg-mobile.svg");
     background-position: center;
   }
 
