@@ -13,7 +13,7 @@ body {
 body.home {
   background-image: url('/img/bg.svg');
 	background-blend-mode: soft-light;
-  background-position: left center;
+  background-position: right center;
   background-repeat: no-repeat;
   background-size: cover;
 }
