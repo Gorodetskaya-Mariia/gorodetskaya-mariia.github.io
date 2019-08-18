@@ -10,7 +10,7 @@ body {
 }
 
 body.home {
-  background-image: url("images/bg.svg");
+  background-image: url("img/bg.svg");
   background-blend-mode: soft-light;
   background-position: right center;
   background-repeat: no-repeat;
@@ -406,7 +406,7 @@ a:hover svg {
 
 @media screen and (max-width: 767px) {
   body.home {
-    background-image: url("images/bg-mobile.svg");
+    background-image: url("img/bg-mobile.svg");
     background-position: center;
   }
 
